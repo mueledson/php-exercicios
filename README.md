@@ -1,5 +1,5 @@
 # Exercicios PHP
 
 ### Usando Select
- * [] SELECT * FROM tb_cliente;
+ * [x] SELECT * FROM tb_cliente;
   
